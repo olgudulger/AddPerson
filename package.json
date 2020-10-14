@@ -1,0 +1,31 @@
+{
+  "name": "itheroapi",
+  "version": "1.0.0",
+  "description": "Person ekleyen NodeJs servisimiz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgudulger/nodeJsService.git"
+  },
+  "keywords": [
+    "[\"message\"",
+    "\"data\"]"
+  ],
+  "author": "Olgu Dulger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olgudulger/nodeJsService/issues"
+  },
+  "homepage": "https://github.com/olgudulger/nodeJsService#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "underscore": "^1.11.0",
+    "unirest": "^0.6.0"
+  }
+}
